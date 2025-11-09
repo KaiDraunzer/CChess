@@ -1,0 +1,5 @@
+{
+  "name": "CChess",
+  "description": "A two-player offline chess game with a twist! Challenge a friend with standard chess rules, or perform a 'regicide' ",
+  "requestFramePermissions": []
+}
